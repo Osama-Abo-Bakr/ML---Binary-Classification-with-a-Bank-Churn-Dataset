@@ -1,5 +1,4 @@
 # ML-Binary-Classification-with-a-Bank-Churn-Dataset
-### GitHub README
 
 ```markdown
 # Predictive Modeling for Bank Customer Churn
